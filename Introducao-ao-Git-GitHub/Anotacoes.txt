@@ -1,0 +1,13 @@
+Alguns comandos no terminal Linux:
+
+- cd + nome da pasta = entra na pasta.
+
+- ls = lista o conteúdo da Pasta em que voce está.
+
+- ls -a = lista tambem os arquivos ocultos da pasta.
+
+- mkdir + nome = cria uma pasta.
+
+- echo > nome.extensao = cria um arquivo.
+
+- sudo chmod 777 + o nome da pasta ou arquivo = libera a permissão para você poder manipular o arquivo como editar e salva-lo.
